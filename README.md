@@ -1,12 +1,16 @@
-### Hi there! I'm Amany 👋
-I'm a Computer Science student passionate about Front-End development, building engaging user interfaces, and turning design ideas into clean, functional code.
+# sakinah
 
-* 💻 *What I focus on:* Front-End Web Development & Mobile UI.
-* 🌍 *Languages:* Arabic (Native), English (Fluent), German (Fluent / Professional).
-* 🌱 *Currently learning:* Advanced Front-End frameworks and modern UI/UX principles.
-* 💬 *Let's connect:* Always open to collaborating on exciting projects or discussing tech ideas.
+A new Flutter project.
 
-#### 🛠️ Tech Stack & Tools:
-* *Languages:* JavaScript, HTML, CSS, C++, Dart, Python, SQL
-* *Frameworks & Libraries:* React, Flutter (UI), Tailwind / CSS Libraries
-* *Tools & Platforms:* Git, GitHub, Visual Studio Code, Postman, draw.io
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
