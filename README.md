@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there! I'm Amany 👋
+I'm a Third-Year Computer Science student passionate about Front-End development, building engaging user interfaces, and turning design ideas into clean, functional code.
 
-<!--
-**Amany-Ali-Coder/Amany-Ali-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 *What I focus on:* Front-End Web Development & Mobile UI.
+* 🌍 *Languages:* Arabic (Native), English (Fluent), German (Fluent / Professional).
+* 🌱 *Currently learning:* Advanced Front-End frameworks and modern UI/UX principles.
+* 💬 *Let's connect:* Always open to collaborating on exciting projects or discussing tech ideas.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack & Tools:
+* *Languages:* JavaScript, HTML, CSS, C++, Dart, Python, SQL
+* *Frameworks & Libraries:* React, Flutter (UI), Tailwind / CSS Libraries
+* *Tools & Platforms:* Git, GitHub, Visual Studio Code, Postman, draw.io
