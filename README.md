@@ -1,5 +1,5 @@
 ### Hi there! I'm Amany 👋
-I'm a Third-Year Computer Science student passionate about Front-End development, building engaging user interfaces, and turning design ideas into clean, functional code.
+I'm a Computer Science student passionate about Front-End development, building engaging user interfaces, and turning design ideas into clean, functional code.
 
 * 💻 *What I focus on:* Front-End Web Development & Mobile UI.
 * 🌍 *Languages:* Arabic (Native), English (Fluent), German (Fluent / Professional).
